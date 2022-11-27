@@ -31,6 +31,6 @@ In the project root directory
 
 In the project root directory
 
-- run `./vendor/bin/sail compose test`
+- run `./vendor/bin/sail composer test`
 
 
